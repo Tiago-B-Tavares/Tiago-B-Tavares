@@ -1,13 +1,14 @@
 ### Olá, Eu sou o Tiago👋
 
 
-  
-<a href="https://github.com/Tiago-B-Tavares/github-readme-stats">
-  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-B-Tavares&layout=compact&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=Tiago-B-Tavares&show_icons=true&theme=radical" />
-</a>
+<div style="display: inline_block">  
+  <a href="https://github.com/Tiago-B-Tavares/github-readme-stats">
+    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-B-Tavares&layout=compact&theme=radical" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=Tiago-B-Tavares&show_icons=true&theme=radical" />
+  </a>
+</div>
 
    <hr>
 <div align="left">
