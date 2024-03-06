@@ -1,14 +1,6 @@
 ### Olá, Eu sou o Tiago👋
 
 
-<!--!<div style="display: flex;">  
-  <a href="https://github.com/Tiago-B-Tavares/github-readme-stats">
-    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-B-Tavares&layout=compact&theme=radical" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=Tiago-B-Tavares&show_icons=true&theme=radical" />
-  </a>
-</div>-->
 <div>
  <a href="https://github.com/Tiago-B-Tavares">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiago-B-Tavares&show_icons=true&theme=dracula"/></a>
@@ -17,7 +9,7 @@
   </a>
 </div>
 
-   <hr>
+ <h2>Minhas Skills🛠⚙</h2>
 <div align="left">
   <img align="center" alt="Tiago-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Tiago-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
