@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Tiago👋
 
 
-<div style="display: inline_block">  
+<div style="display: flex;">  
   <a href="https://github.com/Tiago-B-Tavares/github-readme-stats">
     <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-B-Tavares&layout=compact&theme=radical" />
   </a>
