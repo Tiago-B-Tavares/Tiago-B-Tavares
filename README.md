@@ -9,15 +9,13 @@
     <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=Tiago-B-Tavares&show_icons=true&theme=radical" />
   </a>
 </div>-->
-<div style="display: flex;">
-  <a href="https://github.com/Tiago-B-Tavares/github-readme-stats" style="flex: 1;">
-    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-B-Tavares&layout=compact&theme=radical" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1;">
-    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=Tiago-B-Tavares&show_icons=true&theme=radical" />
+<div>
+ <a href="https://github.com/Tiago-B-Tavares">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiago-B-Tavares&show_icons=true&theme=dracula"/></a>
+  <a href="https://github.com/Tiago-B-Tavares" style="margin-left: 8px;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-B-Tavares&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
-
 
    <hr>
 <div align="left">
